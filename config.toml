@@ -1,4 +1,4 @@
-baseURL = 'http://seanbowers.tech/'
+baseURL = 'https://seanbowers.tech/'
 languageCode = 'en-us'
 title = '~/seanbowers.tech'
 theme = "archie"

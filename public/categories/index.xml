@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ~/seanbowers.tech</title>
-    <link>http://seanbowers.tech/categories/</link>
+    <link>https://seanbowers.tech/categories/</link>
     <description>Recent content in Categories on ~/seanbowers.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Sean Bowers</copyright><atom:link href="http://seanbowers.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Sean Bowers</copyright><atom:link href="https://seanbowers.tech/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

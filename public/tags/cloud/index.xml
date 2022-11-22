@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud on ~/seanbowers.tech</title>
-    <link>http://seanbowers.tech/tags/cloud/</link>
+    <link>https://seanbowers.tech/tags/cloud/</link>
     <description>Recent content in cloud on ~/seanbowers.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Sean Bowers</copyright>
-    <lastBuildDate>Sat, 19 Nov 2022 15:13:02 -0800</lastBuildDate><atom:link href="http://seanbowers.tech/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Nov 2022 15:13:02 -0800</lastBuildDate><atom:link href="https://seanbowers.tech/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nextcloud Woes</title>
-      <link>http://seanbowers.tech/blog/nextcloud-woes/</link>
+      <link>https://seanbowers.tech/blog/nextcloud-woes/</link>
       <pubDate>Sat, 19 Nov 2022 15:13:02 -0800</pubDate>
       
-      <guid>http://seanbowers.tech/blog/nextcloud-woes/</guid>
+      <guid>https://seanbowers.tech/blog/nextcloud-woes/</guid>
       <description>So a number of years back, I realized that Google took up way too much of the cloud-based digital real estate in my life and the lives of everybody around me. Now, I feel that I have to stress that I am not anti-Google. While I loathe a number of business and tech practices of Google, as well as their parent company Alphabet, I must admit that they have made extraordinary progress in tech since their advent as a goofy-named search engine.</description>
     </item>
     
