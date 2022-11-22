@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on ~/seanbowers.tech</title>
+    <link>http://seanbowers.tech/blog/</link>
+    <description>Recent content in Blogs on ~/seanbowers.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sean Bowers</copyright>
+    <lastBuildDate>Sun, 20 Nov 2022 22:27:36 -0800</lastBuildDate><atom:link href="http://seanbowers.tech/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web of Old</title>
+      <link>http://seanbowers.tech/blog/web-of-old/</link>
+      <pubDate>Sun, 20 Nov 2022 22:27:36 -0800</pubDate>
+      
+      <guid>http://seanbowers.tech/blog/web-of-old/</guid>
+      <description>I am one of those people that long for the internet of old. Simple, &amp;ldquo;bad design,&amp;rdquo; pure HTML, .gif playground. I love it!
+According to modern standards, this would be considered bad design. But these graphics had imagination. Individuality. People made websites and graphics from scratch before we understood the technology. Now that we have the technology, our sites are bland, white washed, cookie cutter cutouts of every other boring site.</description>
+    </item>
+    
+    <item>
+      <title>Nextcloud Woes</title>
+      <link>http://seanbowers.tech/blog/nextcloud-woes/</link>
+      <pubDate>Sat, 19 Nov 2022 15:13:02 -0800</pubDate>
+      
+      <guid>http://seanbowers.tech/blog/nextcloud-woes/</guid>
+      <description>So a number of years back, I realized that Google took up way too much of the cloud-based digital real estate in my life and the lives of everybody around me. Now, I feel that I have to stress that I am not anti-Google. While I loathe a number of business and tech practices of Google, as well as their parent company Alphabet, I must admit that they have made extraordinary progress in tech since their advent as a goofy-named search engine.</description>
+    </item>
+    
+    <item>
+      <title>Borders and Boundaries</title>
+      <link>http://seanbowers.tech/blog/borders-and-boundaries/</link>
+      <pubDate>Sat, 19 Nov 2022 02:08:15 -0800</pubDate>
+      
+      <guid>http://seanbowers.tech/blog/borders-and-boundaries/</guid>
+      <description>Throughout my life, there have been a great number books and albums that have come at just the right time, that the only way to properly describe them is to say they &amp;ldquo;saved my life.&amp;rdquo; More often than not this is merely hyperbole. But in the case of the album Borders &amp;amp; Boundaries by Less Than Jake, it definitely carried me through the end of my drinking.
+This is even more ironic as I don&amp;rsquo;t necessarily like Less Than Jake.</description>
+    </item>
+    
+  </channel>
+</rss>
