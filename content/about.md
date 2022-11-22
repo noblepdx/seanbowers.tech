@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-11-19T11:57:42-08:00
-draft: true
+draft: false
 ---
 ![Ohh](/ohh.jpg)
 
