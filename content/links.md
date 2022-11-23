@@ -38,10 +38,9 @@ Here I am including links to some of my writing, interviews, videos, as well as 
 
 ### Youtube Channels  
 #### Linux  
-- [DistroTube](https://www.youtube.com/@DistroTube) - Hands down my favorite Linux Youtuber. Warning, he does take some staunch boomer perspectives, but when it comes to his content, he is heads above everybody else in the game.  
 - [Jake@Linux](https://www.youtube.com/@JakeLinux) - Great content for anyone looking for something other than Ubuntu, or anything outside the norm, while perfecting the core workflow of your machine.  
 - [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech) - Chris was my guide to using Linux full-time. Very beginner friendly and not fanatical like me or most of those I watch.   
-- [Kris Occhipinti](https://www.youtube.com/@DigitalMetal/videos) - Kris gets into the nitty gritty of a lot of the behind the scenes processes on Linux. A wealth of pertinent knowledge.  
+- [Kris Occhipinti](https://www.youtube.com/@DigitalMetal) - Kris gets into the nitty gritty of a lot of the behind the scenes processes on Linux. A wealth of pertinent knowledge.  
 #### Tech  
 - [Fireship](https://www.youtube.com/@Fireship) - It's funny because I don't know the first thing about development, and Fireship is almost solely about development and coding languages. But the content is great, and I learn something with every video.  
 - [Computerphile](https://www.youtube.com/@Computerphile) - If you ever felt the need for people to talk about computers on a level that seems esoteric and makes you feel irredeemably stupid, look no further. Computers as philosophy and religion. One of my favorites.  
@@ -57,6 +56,7 @@ Here I am including links to some of my writing, interviews, videos, as well as 
 - [Daily Dose of Internet](https://www.youtube.com/@DailyDoseOfInternet) - I am not sure if I know anybody not familiar with this guy, but his content is a great reprieve from the rest of the internet.  
 - [Tamara's Blue Chicken](https://www.youtube.com/@TamarasBlueChicken) - I fell in love with Tamara's ring neck parrot Kiwi, as I am sure everybody else will to.   
 - [K'eyush the Stunt Dog](https://www.youtube.com/@KeyushTheStuntDog) - I discovered K'eyush (known affectionately as Key) when I was working overnights at a homeless shelter. Key's videos brought me much joy, and much needed relief from the constant suffering I was privy to.  
+- [Matteo Lane](https://www.youtube.com/@matteolanecomedy) - He is just so adorable and so funny. I just can't get enough of him. 
 - [Sheena Melwani](https://www.youtube.com/c/SheenaMelwani) - I fell in love with watching Sheena's husband(?) Trid mess with her and his dad jokes. Super funny.  
 
 
