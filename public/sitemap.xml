@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://seanbowers.tech/contact/</loc>
+    <lastmod>2022-11-28T21:44:57-08:00</lastmod>
+  </url><url>
     <loc>https://seanbowers.tech/</loc>
     <lastmod>2022-11-28T00:39:34-08:00</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2022-11-28T00:39:34-08:00</lastmod>
   </url><url>
     <loc>https://seanbowers.tech/tags/archlinux/</loc>
+    <lastmod>2022-11-28T00:39:34-08:00</lastmod>
+  </url><url>
+    <loc>https://seanbowers.tech/blog/</loc>
     <lastmod>2022-11-28T00:39:34-08:00</lastmod>
   </url><url>
     <loc>https://seanbowers.tech/tags/linux/</loc>
@@ -23,17 +29,11 @@
     <loc>https://seanbowers.tech/tags/</loc>
     <lastmod>2022-11-28T00:39:34-08:00</lastmod>
   </url><url>
-    <loc>https://seanbowers.tech/tech/</loc>
-    <lastmod>2022-11-28T00:39:34-08:00</lastmod>
-  </url><url>
-    <loc>https://seanbowers.tech/tech/what-i-use/</loc>
+    <loc>https://seanbowers.tech/blog/what-i-use/</loc>
     <lastmod>2022-11-28T00:39:34-08:00</lastmod>
   </url><url>
     <loc>https://seanbowers.tech/links/</loc>
     <lastmod>2022-11-20T23:15:46-08:00</lastmod>
-  </url><url>
-    <loc>https://seanbowers.tech/blog/</loc>
-    <lastmod>2022-11-20T22:27:36-08:00</lastmod>
   </url><url>
     <loc>https://seanbowers.tech/tags/design/</loc>
     <lastmod>2022-11-20T22:27:36-08:00</lastmod>

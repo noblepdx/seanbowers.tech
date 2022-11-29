@@ -9,11 +9,21 @@
     <copyright>© Sean Bowers</copyright>
     <lastBuildDate>Mon, 28 Nov 2022 00:39:34 -0800</lastBuildDate><atom:link href="https://seanbowers.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://seanbowers.tech/contact/</link>
+      <pubDate>Mon, 28 Nov 2022 21:44:57 -0800</pubDate>
+      
+      <guid>https://seanbowers.tech/contact/</guid>
+      <description>For event booking, job offers, or pledges of undying and eternal love and devotion, please email me at info@seanbowers.tech
+the two places online where I can still be found LinkedIn FOSStodon (Mastodon instance for free and open source software devotees) </description>
+    </item>
+    
+    <item>
       <title>What I Use</title>
-      <link>https://seanbowers.tech/tech/what-i-use/</link>
+      <link>https://seanbowers.tech/blog/what-i-use/</link>
       <pubDate>Mon, 28 Nov 2022 00:39:34 -0800</pubDate>
       
-      <guid>https://seanbowers.tech/tech/what-i-use/</guid>
+      <guid>https://seanbowers.tech/blog/what-i-use/</guid>
       <description>Software of Choice Arch Linux This is the first in a series in which I want to highlight the software that I use on a regular basis. I have found some of my favorite software while reading other people&amp;rsquo;s similar blogs or articles. So I figured I would count myself among the many and return the favor.
 While I believe Linux to be the only rational operating system of choice (This is a joke&amp;hellip;ish), I do find people&amp;rsquo;s choice of Linux distro to be of interest.</description>
     </item>

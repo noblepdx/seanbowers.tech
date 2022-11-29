@@ -36,7 +36,7 @@ url = "mailto:seanbowers@protonmail.com"
 # Main menu Items
 
 [[menu.main]]
-name = "Home"
+name = "~"
 url = "/"
 weight = 1
 
@@ -51,8 +51,8 @@ url = "/blog"
 weight = 3
 
 [[menu.main]]
-name = "tech_blog"
-url = "/tech"
+name = "series"
+url = "/series"
 weight = 4
 
 [[menu.main]]
