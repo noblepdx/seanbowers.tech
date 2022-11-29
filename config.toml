@@ -15,6 +15,12 @@ paginate=3 # articles per page
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Still terminal after all these years"
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+
 # Social Tags
 
 [[params.social]]
@@ -35,21 +41,31 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "blog"
 url = "/blog"
 weight = 3
 
 [[menu.main]]
-name = "Links"
-url = "/links"
+name = "tech_blog"
+url = "/tech"
 weight = 4
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "links"
+url = "/links"
 weight = 5
+
+[[menu.main]]
+name = "tags"
+url = "/tags"
+weight = 6
+
+[[menu.main]]
+name = "contact"
+url = "/contact"
+weight = 7

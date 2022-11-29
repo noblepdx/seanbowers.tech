@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archlinux on ~/seanbowers.tech</title>
+    <link>https://seanbowers.tech/tags/archlinux/</link>
+    <description>Recent content in archlinux on ~/seanbowers.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sean Bowers</copyright>
+    <lastBuildDate>Mon, 28 Nov 2022 00:39:34 -0800</lastBuildDate><atom:link href="https://seanbowers.tech/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I Use</title>
+      <link>https://seanbowers.tech/tech/what-i-use/</link>
+      <pubDate>Mon, 28 Nov 2022 00:39:34 -0800</pubDate>
+      
+      <guid>https://seanbowers.tech/tech/what-i-use/</guid>
+      <description>Software of Choice Arch Linux This is the first in a series in which I want to highlight the software that I use on a regular basis. I have found some of my favorite software while reading other people&amp;rsquo;s similar blogs or articles. So I figured I would count myself among the many and return the favor.
+While I believe Linux to be the only rational operating system of choice (This is a joke&amp;hellip;ish), I do find people&amp;rsquo;s choice of Linux distro to be of interest.</description>
+    </item>
+    
+  </channel>
+</rss>

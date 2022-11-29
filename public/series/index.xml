@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on ~/seanbowers.tech</title>
+    <link>https://seanbowers.tech/series/</link>
+    <description>Recent content in Series on ~/seanbowers.tech</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Sean Bowers</copyright>
+    <lastBuildDate>Mon, 28 Nov 2022 00:39:34 -0800</lastBuildDate><atom:link href="https://seanbowers.tech/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software of Choice</title>
+      <link>https://seanbowers.tech/series/software-of-choice/</link>
+      <pubDate>Mon, 28 Nov 2022 00:39:34 -0800</pubDate>
+      
+      <guid>https://seanbowers.tech/series/software-of-choice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
